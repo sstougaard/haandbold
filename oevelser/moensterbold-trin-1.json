@@ -1,0 +1,119 @@
+{
+ "v": 1,
+ "uid": 5,
+ "name": "Mønsterbold – trin 1",
+ "court": "half",
+ "cur": 0,
+ "objects": [
+  {
+   "id": 1,
+   "type": "red"
+  },
+  {
+   "id": 2,
+   "type": "red"
+  },
+  {
+   "id": 3,
+   "type": "red"
+  },
+  {
+   "id": 4,
+   "type": "ball"
+  }
+ ],
+ "frames": [
+  {
+   "dur": 0.8,
+   "ease": "smooth",
+   "note": "Udgangsstilling – tre stationære poster",
+   "pos": {
+    "1": {
+     "x": 8,
+     "y": 4.5
+    },
+    "2": {
+     "x": 13.5,
+     "y": 10
+    },
+    "3": {
+     "x": 8,
+     "y": 15.5
+    },
+    "4": {
+     "x": 8.8,
+     "y": 5.1
+    }
+   }
+  },
+  {
+   "dur": 0.8,
+   "ease": "linear",
+   "note": "1 afleverer til 2",
+   "pos": {
+    "1": {
+     "x": 8,
+     "y": 4.5
+    },
+    "2": {
+     "x": 13.5,
+     "y": 10
+    },
+    "3": {
+     "x": 8,
+     "y": 15.5
+    },
+    "4": {
+     "x": 14.3,
+     "y": 10.5
+    }
+   }
+  },
+  {
+   "dur": 0.8,
+   "ease": "linear",
+   "note": "2 afleverer til 3",
+   "pos": {
+    "1": {
+     "x": 8,
+     "y": 4.5
+    },
+    "2": {
+     "x": 13.5,
+     "y": 10
+    },
+    "3": {
+     "x": 8,
+     "y": 15.5
+    },
+    "4": {
+     "x": 8.8,
+     "y": 16.1
+    }
+   }
+  },
+  {
+   "dur": 1.2,
+   "ease": "linear",
+   "note": "3 afleverer tilbage til 1 – mønstret gentages",
+   "pos": {
+    "1": {
+     "x": 8,
+     "y": 4.5
+    },
+    "2": {
+     "x": 13.5,
+     "y": 10
+    },
+    "3": {
+     "x": 8,
+     "y": 15.5
+    },
+    "4": {
+     "x": 8.8,
+     "y": 5.1
+    }
+   }
+  }
+ ]
+}
