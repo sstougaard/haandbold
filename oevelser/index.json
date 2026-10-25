@@ -15,9 +15,19 @@
     "updated": "2026-10-24"
   },
   {
+    "file": "benjamins-bak-floej-finte.json",
+    "name": "Benjamins bak-fløj finte",
+    "updated": "2026-10-25"
+  },
+  {
     "file": "find-hullet-mellem-to-forsvarere.json",
     "name": "Find hullet – mellem to forsvarere",
     "updated": "2026-10-24"
+  },
+  {
+    "file": "finte-med-temposkift.json",
+    "name": "Finte med temposkift",
+    "updated": "2026-09-05"
   },
   {
     "file": "fintebanen.json",
@@ -38,11 +48,6 @@
     "file": "fodarbejde-d-et-bens-afsaet.json",
     "name": "Fodarbejde D – ét-bens-afsæt",
     "updated": "2026-10-25"
-  },
-  {
-    "file": "finte-med-temposkift.json",
-    "name": "Finte med temposkift",
-    "updated": "2026-09-05"
   },
   {
     "file": "hopstafetten.json",
@@ -68,5 +73,25 @@
     "file": "to-mod-en-finte-eller-aflever.json",
     "name": "To mod én – finte eller aflevér",
     "updated": "2026-10-24"
+  },
+  {
+    "file": "totalhaandbold-angrebsversion-hoejrebak.json",
+    "name": "Totalhåndbold angrebsversion højrebak",
+    "updated": "2026-10-25"
+  },
+  {
+    "file": "totalhaandbold-angrebsversion-venstrebak.json",
+    "name": "Totalhåndbold angrebsversion venstrebak",
+    "updated": "2026-10-25"
+  },
+  {
+    "file": "totalhaandbold-angrebsversion-venstrefloej.json",
+    "name": "Totalhåndbold angrebsversion venstrefløj",
+    "updated": "2026-10-25"
+  },
+  {
+    "file": "totalhaandbold-forsvarsbevaegelse.json",
+    "name": "Totalhåndbold forsvarsbevægelse",
+    "updated": "2026-10-25"
   }
 ]
