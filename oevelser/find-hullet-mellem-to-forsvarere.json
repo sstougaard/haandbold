@@ -1,0 +1,26 @@
+{
+ "v": 1,
+ "uid": 6,
+ "name": "Find hullet – mellem to forsvarere",
+ "court": "half",
+ "cur": 0,
+ "objects": [
+  {"id": 1, "type": "gk"},
+  {"id": 2, "type": "red"},
+  {"id": 3, "type": "blue"},
+  {"id": 4, "type": "blue"},
+  {"id": 5, "type": "ball"}
+ ],
+ "frames": [
+  {"dur": 1.1, "ease": "brake", "note": "Gå ikke direkte på manden",
+   "pos": {"1": {"x": 1, "y": 10}, "2": {"x": 15, "y": 7.6}, "3": {"x": 8.4, "y": 7.4}, "4": {"x": 8.4, "y": 12.6}, "5": {"x": 15.5, "y": 7.9}}},
+  {"dur": 0.35, "ease": "snap", "note": "Kig efter hullet mellem to forsvarere",
+   "pos": {"1": {"x": 1, "y": 10}, "2": {"x": 11.6, "y": 7.9}, "3": {"x": 8.6, "y": 7.5}, "4": {"x": 8.4, "y": 12.4}, "5": {"x": 12.1, "y": 8.2}}},
+  {"dur": 0.45, "ease": "accel", "note": "Temposkift ind i hullet",
+   "pos": {"1": {"x": 1, "y": 10}, "2": {"x": 10, "y": 9.6}, "3": {"x": 8.8, "y": 8.2}, "4": {"x": 8.6, "y": 11.8}, "5": {"x": 10.5, "y": 9.9}}},
+  {"dur": 0.5, "ease": "brake", "note": "Forsvarerne lukker for sent",
+   "pos": {"1": {"x": 1, "y": 10}, "2": {"x": 7.6, "y": 10}, "3": {"x": 8.6, "y": 8.9}, "4": {"x": 8.6, "y": 11.1}, "5": {"x": 8, "y": 10.3}}},
+  {"dur": 1.2, "ease": "smooth", "note": "Afslut – mål!",
+   "pos": {"1": {"x": 1, "y": 9.6}, "2": {"x": 7.3, "y": 10}, "3": {"x": 8.6, "y": 9}, "4": {"x": 8.6, "y": 11}, "5": {"x": 0.2, "y": 10.4}}}
+ ]
+}

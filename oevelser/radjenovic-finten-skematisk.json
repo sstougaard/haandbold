@@ -1,0 +1,27 @@
+{
+ "v": 1,
+ "uid": 5,
+ "name": "Radjenovic-finten (skematisk)",
+ "court": "half",
+ "cur": 0,
+ "objects": [
+  {"id": 1, "type": "gk"},
+  {"id": 2, "type": "red"},
+  {"id": 3, "type": "blue"},
+  {"id": 4, "type": "ball"}
+ ],
+ "frames": [
+  {"dur": 1.0, "ease": "brake", "note": "Fart mod forsvarerens inderside",
+   "pos": {"1": {"x": 1, "y": 10}, "2": {"x": 15, "y": 10.2}, "3": {"x": 8.4, "y": 11.2}, "4": {"x": 15.5, "y": 9.9}}},
+  {"dur": 0.3, "ease": "snap", "note": "1. skridt: brems på højre fod",
+   "pos": {"1": {"x": 1, "y": 10}, "2": {"x": 10.2, "y": 10.4}, "3": {"x": 8.6, "y": 10.9}, "4": {"x": 10.6, "y": 9.9}}},
+  {"dur": 0.35, "ease": "snap", "note": "Bolden højt hen over forsvarerens arme",
+   "pos": {"1": {"x": 1, "y": 10}, "2": {"x": 9.4, "y": 11.1}, "3": {"x": 8.7, "y": 10.8}, "4": {"x": 8.7, "y": 11.7}}},
+  {"dur": 0.4, "ease": "accel", "note": "2. skridt: højre fod tæt på forsvareren",
+   "pos": {"1": {"x": 1, "y": 10}, "2": {"x": 8.9, "y": 12.4}, "3": {"x": 8.7, "y": 11}, "4": {"x": 8.4, "y": 12.6}}},
+  {"dur": 0.4, "ease": "accel", "note": "3. skridt: frem mod mål og afslut",
+   "pos": {"1": {"x": 1, "y": 10.4}, "2": {"x": 7.5, "y": 12.6}, "3": {"x": 8.8, "y": 11.2}, "4": {"x": 7.8, "y": 12.3}}},
+  {"dur": 1.2, "ease": "smooth", "note": "Mål!",
+   "pos": {"1": {"x": 1, "y": 10.4}, "2": {"x": 7.3, "y": 12.6}, "3": {"x": 8.8, "y": 11.3}, "4": {"x": 0.2, "y": 11}}}
+ ]
+}
